@@ -9,4 +9,4 @@ Run NPM and proceed to local host.
 ## Technologies used
 Front end HTML and CSS were provided by educator.  Server.js file was added to assignment to complete challenge.
 ## Deployed application
-https://austinmetcalf.github.io/Note-taker/Develop/public/index.html
+file:///Users/austinmetcalf/Desktop/Note-taker/public/index.html
